@@ -1,4 +1,4 @@
-	<?php
+<?php
 	return array(
 		'api/<controller:\w+>'=>array('<controller>/restList', 'verb'=>'GET'),
 		'api/<controller:\w+>/<id:\w*>'=>array('<controller>/restView', 'verb'=>'GET'),

@@ -1,0 +1,3 @@
+    <resources>
+        <string name="post_url">http://hostname/workspace/andrestsrv/index.php/api/post/</string>
+    </resources>
